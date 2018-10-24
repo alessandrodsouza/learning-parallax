@@ -1,2 +1,2 @@
-# parallax_example
-Trying out making a parallax website
+# Learning Parallax
+Trying out making a simple parallax webpage
